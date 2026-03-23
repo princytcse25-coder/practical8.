@@ -1,0 +1,15 @@
+body{
+font-family: Arial;
+text-align:center;
+background:linear-gradient(to right, lavender, purple);
+}
+h1 {
+color: white;
+}
+.gallery img {
+width:300px;
+height:400px;
+}
+.gallery img:hover{
+transform: scale(1.1);
+}
